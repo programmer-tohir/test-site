@@ -1,0 +1,24 @@
+*{
+    display: block;
+}
+.bosh1{
+    color:blue;
+    text-align: center;
+}
+.paragraf{
+    text-align: center;
+}
+
+.kanal{
+    text-align: center;
+}
+.pochta{
+    color: firebrick;
+}
+    .ism{
+        color: darkblue;
+    }
+.img{
+    display: block;
+    margin-left: 35%;
+}
